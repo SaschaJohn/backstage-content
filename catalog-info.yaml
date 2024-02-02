@@ -5,11 +5,3 @@ metadata:
   description: Everything about artists
 spec:
   owner: artist-relations-teat
----
-apiVersion: backstage.io/v1alpha1
-kind: Domain2
-metadata:
-  name: artists
-  description: Everything about btists
-spec:
-  owner: artist-relations-team
