@@ -11,6 +11,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
   name: btists
-  description: Everything about artists
+  description: Everything about btists
 spec:
   owner: guests
+  
