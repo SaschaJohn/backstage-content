@@ -4,4 +4,4 @@ metadata:
   name: artists
   description: Everything about artists
 spec:
-  owner: artist-relations-teat
+  owner: guests
