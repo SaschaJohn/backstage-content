@@ -5,6 +5,7 @@ metadata:
   description: Everything about artists
 spec:
   owner: guests
+  
 ---
 apiVersion: backstage.io/v1alpha1
 kind: Domain
